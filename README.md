@@ -1,6 +1,5 @@
 # Steam Gaming Data Analysis
 
-# Steam Game Data Analysis
 
 This project explores and analyzes Steam game data to uncover patterns in pricing, genres, and player reviews. It also applies machine learning models to predict game popularity and player ratings.  
 
